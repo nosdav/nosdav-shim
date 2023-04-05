@@ -1,6 +1,6 @@
 {
   "name": "nosdav-shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nosdav-shim",
   "main": "index.js",
   "scripts": {

@@ -16,10 +16,10 @@
 
 ---
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nosdav/nosdavshim/blob/gh-pages/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nosdav/nosdav-shim/blob/gh-pages/LICENSE)
 [![npm](https://img.shields.io/npm/v/nosdav-shim)](https://npmjs.com/package/nosdav-shim)
 [![npm](https://img.shields.io/npm/dw/nosdav-shim.svg)](https://npmjs.com/package/nosdav-shim)
-[![Github Stars](https://img.shields.io/github/stars/nosdav/nosdavshim.svg)](https://github.com/nosdav/nosdavshim/)
+[![Github Stars](https://img.shields.io/github/stars/nosdav/nosdav-shim.svg)](https://github.com/nosdav/nosdav-shim/)
 
 ## Introduction
 
