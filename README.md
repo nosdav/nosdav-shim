@@ -44,7 +44,7 @@ window.fetch = async function(url, options) {
     const event = {
       kind: 27235,
       created_at: Math.floor(Date.now() / 1000),
-      tags: [['url', url]],
+      tags: [['u', url]],
       content: ''
     }
     const signedEvent = await window.nostr.signEvent(event)
