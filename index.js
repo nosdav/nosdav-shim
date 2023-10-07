@@ -1,5 +1,6 @@
 const originalFetch = window.fetch
 
+// modifies fetch PUT to add nip98 auth header
 window.fetch = async function (url, options) {
   const newOptions = { ...options }
 
